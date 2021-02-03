@@ -1,0 +1,12 @@
+body {
+	height: 100vh;
+	background: #e4001f;
+	background: radial-gradient(#e4001f, #250003);
+}
+
+img.centered_logo {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
